@@ -37,6 +37,9 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanzeballos&theme=dark" alt="dylanzeballos" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dylanzeballos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
