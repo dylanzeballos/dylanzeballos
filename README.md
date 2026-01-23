@@ -170,7 +170,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dylanzeballos&theme=algolia&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=dylanzeballos&theme=algolia&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 <br>
 
